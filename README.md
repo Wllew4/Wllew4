@@ -1,16 +1,39 @@
-### Hi there 👋
+<img src="roux.png" width="30%" align="right">
 
-<!--
-**Wllew4/Wllew4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! o/
 
-Here are some ideas to get you started:
+<p align="left">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I go by Will/Felix/Janelle
+
+I'm a Software Developer
+currently studying Computer Science full-time at
+Wentworth Institute of Technology in Boston, MA.
+
+You can support me on [Ko-fi](https://ko-fi.com/soupsu)
+or [StreamElements](https://streamelements.com/Soupsu/tip)
+
+## I dabble in:
+* Low-level tools
+* Graphics processing
+* Web development (prefer backend)
+
+<img src="skullmutt.png" width="30%" align="right" style="border-radius: 25%">
+
+## Favorite languages:
+* C++
+* Python
+* TypeScript
+* Rust
+
+## Socials:
+* [*Twitter*](https://twitter.com/soupsu_)
+* [*Twitch.tv*](https://twitch.tv/soupsu)
+* [*YouTube*](https://youtube.com/soupsepicgames)
+* [*Instagram*](https://instagram.com/wllew4)
+
+<img src="skullmutt2.jpg" width="30%" align="right" style="border-radius: 25%">
+
+## Featured art by:
+* [Flour and Butter](https://twitter.com/creamy_roux)
+* [Mutt](https://twitter.com/skullmutt)

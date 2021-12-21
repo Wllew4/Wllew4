@@ -1,39 +1,42 @@
-<img src="roux.png" width="30%" align="right">
+<img src="img/roux.png" width="30%" align="right">
 
-## Hello! o/
+# Hello! <img src="img/pixel.PNG" width="4%">
 
 <p align="left">
 
-I go by Will/Felix/Janelle
+I go by Will/Felix/Janelle.
 
 I'm a Software Developer
-currently studying Computer Science full-time at
+currently studying full-time at
 Wentworth Institute of Technology in Boston, MA.
+I like to focus on low-level/backend development.
 
-You can support me on [Ko-fi](https://ko-fi.com/soupsu)
-or [StreamElements](https://streamelements.com/Soupsu/tip)
+<br>
 
-## I dabble in:
-* Low-level tools
-* Graphics processing
-* Web development (prefer backend)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="skullmutt.png" width="30%" align="right">
+<img src="img/skullmutt.png" width="30%" align="right">
 
-## Favorite languages:
-* C++
-* Python
-* TypeScript
-* Rust
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/soupsu)
 
-## Socials:
-* [*Twitter*](https://twitter.com/soupsu_)
-* [*Twitch.tv*](https://twitch.tv/soupsu)
-* [*YouTube*](https://youtube.com/soupsepicgames)
-* [*Instagram*](https://instagram.com/wllew4)
+<a style="margin: 0.5%;" href="https://twitter.com/soupsu_" target="_blank">
+	<img src="img/socials/twitter.svg" width="6%">
+</a>
+<a style="margin: 0.5%;" href="https://twitch.tv/soupsu" target="_blank">
+	<img src="img/socials/twitch.svg" width="6%">
+</a>
+<a style="margin: 0.5%;" href="https://youtube.com/soupsepicgames" target="_blank">
+	<img src="img/socials/youtube.svg" width="6%">
+</a>
+<a style="margin: 0.5%;" href="https://instagram.com/wllew4" target="_blank">
+	<img src="img/socials/instagram.svg" width="6%">
+</a>
+<a style="margin: 0.5%;" href="https://www.linkedin.com/in/will-janelle/" target="_blank">
+	<img src="img/socials/linkedin.svg" width="6%">
+</a>
 
-<img src="skullmutt2.png" width="30%" align="right">
+<br>
 
 ## Featured art by:
-* [Flour and Butter](https://twitter.com/creamy_roux)
+* [Roux](https://twitter.com/creamy_roux)
 * [Mutt](https://twitter.com/skullmutt)

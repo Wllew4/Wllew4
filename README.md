@@ -4,9 +4,7 @@
 
 <p align="left">
 
-I go by Will/Felix/Janelle
-
-(he/him)
+I go by Will/Felix/Janelle (he/him)
 
 I'm a Software Developer
 currently studying full-time at

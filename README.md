@@ -19,19 +19,19 @@ I like to focus on low-level/backend development.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/soupsu)
 
-<a style="margin: 0.5%;" href="https://twitter.com/soupsu_" target="_blank">
+<a style="margin: 0.5%;" href="https://twitter.com/soupsu_">
 	<img src="img/socials/twitter.svg" width="6%">
 </a>
-<a style="margin: 0.5%;" href="https://twitch.tv/soupsu" target="_blank">
+<a style="margin: 0.5%;" href="https://twitch.tv/soupsu">
 	<img src="img/socials/twitch.svg" width="6%">
 </a>
 <a style="margin: 0.5%;" href="https://youtube.com/soupsepicgames" target="_blank">
 	<img src="img/socials/youtube.svg" width="6%">
 </a>
-<a style="margin: 0.5%;" href="https://instagram.com/wllew4" target="_blank">
+<a style="margin: 0.5%;" href="https://instagram.com/wllew4">
 	<img src="img/socials/instagram.svg" width="6%">
 </a>
-<a style="margin: 0.5%;" href="https://www.linkedin.com/in/will-janelle/" target="_blank">
+<a style="margin: 0.5%;" href="https://www.linkedin.com/in/will-janelle/">
 	<img src="img/socials/linkedin.svg" width="6%">
 </a>
 

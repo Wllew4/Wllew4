@@ -35,9 +35,7 @@ My Favorite Languages:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 <img src="img/skullmutt.png" width="30%" align="right">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react" max-width="50%">
 
 ## Featured art by:
 * [Roux](https://twitter.com/creamy_roux)

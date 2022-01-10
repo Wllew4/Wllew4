@@ -18,9 +18,6 @@ I like to focus on low-level/backend development.
 <a href="https://youtube.com/soupsepicgames" target="_blank">
 	<img src="img/socials/youtube.svg" width="6%">
 </a>
-<a href="https://instagram.com/wllew4">
-	<img src="img/socials/instagram.svg" width="6%">
-</a>
 <a href="https://www.linkedin.com/in/will-janelle/">
 	<img src="img/socials/linkedin.svg" width="6%">
 </a>

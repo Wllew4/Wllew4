@@ -16,6 +16,7 @@ I like to focus on low-level/backend development.
 <a href="https://www.linkedin.com/in/will-janelle/"	target="_blank"><img src="img/socials/linkedin.svg"	width="6%"></a>
 <br>
 <a href="https://ko-fi.com/soupsu" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" width="24%"></a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react" width="45%">
 </p>
 

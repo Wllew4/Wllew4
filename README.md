@@ -12,15 +12,13 @@ I go by Will/Felix/Janelle
 
 <p align="center">
 <a href="https://twitter.com/soupsu_" target="_blank">
-	<img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="10%"></a>
+	<img src="img/twitter.svg" width="10%"></a>
 <a href="https://twitch.tv/soupsu" target="_blank">
-	<img src="https://camo.githubusercontent.com/c5942c39052ad962364ea8286a6991f7a9b036bf1d96d20db346d9dfd844dfa4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7477697463682e737667"	width="10%"></a>
+	<img src="img/twitch.svg" width="10%"></a>
 <a href="https://youtube.com/soupsu" target="_blank">
-	<img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" width="10%"></a>
+	<img src="img/youtube.svg" width="10%"></a>
 <a href="https://discord.gg/BaJ4r9e" target="_blank">
-	<img src="https://camo.githubusercontent.com/79fcdc7c43f1a1d7c175827976ffee8177814a016fb1b9578ff70f1aef759578/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646973636f72642e737667" width="10%"></a>
-<a href="https://www.linkedin.com/in/will-janelle/" target="_blank">
-	<img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="10%"></a>
+	<img src="img/discord.svg" width="10%"></a>
 <br>
 <a href="https://ko-fi.com/soupsu" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </p>

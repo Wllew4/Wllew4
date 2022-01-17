@@ -2,16 +2,13 @@
 	<img src="img/wave.png" height="100rem">
 </h1>
 
-<h2 align="center">
-I go by Will/Felix/Janelle
-</h2>
 <h3 align="center">
+I go by Will/Felix/Janelle
+
 (he/him)
-</h3>
-<h2 align="center">
 
 [soupsu.dev](https://soupsu.dev)
-</h2>
+</h3>
 
 <p align="center">
 <a href="https://twitter.com/soupsu_" target="_blank">
@@ -38,7 +35,7 @@ I go by Will/Felix/Janelle
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wllew4&layout=compact&theme=react">
 </p>
 <h2 align="center">
 I've dabbled in:

@@ -25,7 +25,7 @@ I go by Will/Felix/Janelle
 
 <h3>
 
-* 💖 18 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer** from southern New Hampshire.
+* 💖 19 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer** from southern New Hampshire.
 * 🎓 Currently studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.
 * 💻 Focusing on low-level/backend development.
 * 👀 Planning to learn OpenGL, Rust, Go, Luau.

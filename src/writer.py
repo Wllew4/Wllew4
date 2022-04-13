@@ -5,7 +5,7 @@ def write_header(file: TextIOWrapper, banner: str, intro: str):
 	file.write(
 """<!--HEADER-->
 <h1 align="center">
-<img src="{banner}" height="100rem">
+<img src="{banner}">
 </h1>
 
 <h3 align="center">

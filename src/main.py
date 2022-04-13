@@ -3,7 +3,7 @@ from write_ghstats import write_ghstats
 from datatypes import Social, Bullet
 import sys
 
-banner = 'img/wave.png'
+banner = 'img/banner.png'
 
 intro = """I go by Will/Felix/Janelle
 

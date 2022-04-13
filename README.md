@@ -1,6 +1,6 @@
 <!--HEADER-->
 <h1 align="center">
-<img src="img/wave.png" height="100rem">
+<img src="img/banner.png">
 </h1>
 
 <h3 align="center">

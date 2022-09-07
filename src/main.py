@@ -22,7 +22,6 @@ bullets: list[Bullet] = [
 	Bullet('🪨', 'From southern New Hampshire.'),
 	Bullet('🎓', 'Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.'),
 	Bullet('💻', 'Focusing on low-level/backend development.'),
-	Bullet('👀', 'Currently making my own language using Rust.'),
 	Bullet('🌹', 'Web3 is gigacringe.'),
 ]
 

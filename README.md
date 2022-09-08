@@ -17,7 +17,6 @@ I go by Will/Felix/Janelle
 🪨 From southern New Hampshire.<br>
 🎓 Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
 💻 Focusing on low-level/backend development.<br>
-👀 Currently making my own language using Rust.<br>
 🌹 Web3 is gigacringe.<br>
 </h3>
 
@@ -26,12 +25,12 @@ I go by Will/Felix/Janelle
 
 | | Most Used Languages: | |
 |-:|:-:|:-|
-TypeScript:|		█████████████░░░░░░░░░░░░<br> | 48.54%
-Go:|		████░░░░░░░░░░░░░░░░░░░░░<br> | 15.32%
-C++:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 10.4%
-Python:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 9.56%
-Rust:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 8.69%
-Vue:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 7.5%
+TypeScript:|		█████████████░░░░░░░░░░░░<br> | 49.87%
+Go:|		████░░░░░░░░░░░░░░░░░░░░░<br> | 15.66%
+C++:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 10.63%
+Python:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 9.72%
+Rust:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 8.89%
+Svelte:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 5.23%
 </div><!--SOCIALS-->
 <p align="center">
 <a href="https://twitter.com/soupsu_" target="_blank">

@@ -19,10 +19,10 @@ socials: list[Social] = [
 
 bullets: list[Bullet] = [
 	Bullet('💖', '19 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer**.'),
-	Bullet('🪨', 'From southern New Hampshire.'),
+	Bullet('🪨', 'From Southern New Hampshire.'),
 	Bullet('🎓', 'Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.'),
 	Bullet('💻', 'Focusing on low-level/backend development.'),
-	Bullet('🌹', 'Web3 is gigacringe.'),
+	Bullet('🐋', 'Docker enjoyer.'),
 ]
 
 lang_count = 6

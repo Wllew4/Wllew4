@@ -14,10 +14,10 @@ I go by Will/Felix/Janelle
 <h3>
 
 💖 19 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer**.<br>
-🪨 From southern New Hampshire.<br>
+🪨 From Southern New Hampshire.<br>
 🎓 Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
 💻 Focusing on low-level/backend development.<br>
-🌹 Web3 is gigacringe.<br>
+🐋 Docker enjoyer.<br>
 </h3>
 
 <!--LANGS-->
@@ -25,12 +25,12 @@ I go by Will/Felix/Janelle
 
 | | Most Used Languages: | |
 |-:|:-:|:-|
-TypeScript:|		█████████████░░░░░░░░░░░░<br> | 49.86%
-Go:|		████░░░░░░░░░░░░░░░░░░░░░<br> | 15.66%
-C++:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 10.63%
-Python:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 9.72%
-Rust:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 8.89%
-Svelte:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 5.23%
+TypeScript:|		█████████████░░░░░░░░░░░░<br> | 49.68%
+Go:|		████░░░░░░░░░░░░░░░░░░░░░<br> | 15.61%
+C++:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 10.59%
+Python:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 10.05%
+Rust:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 8.85%
+Svelte:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 5.21%
 </div><!--SOCIALS-->
 <p align="center">
 <a href="https://twitter.com/soupsu_" target="_blank">

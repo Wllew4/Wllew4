@@ -2,10 +2,12 @@ from writer import write_header, write_bullets, write_socials
 from write_ghstats import write_ghstats
 from datatypes import Social, Bullet
 import sys
+import datetime
+from dateutil.relativedelta import relativedelta
 
 banner = 'img/banner.png'
 
-intro = """I go by Will/Felix/Janelle
+intro = """I go by Felix
 
 (he/him)
 [soupsu.dev](https://soupsu.dev)"""
@@ -17,12 +19,13 @@ socials: list[Social] = [
 	Social('https://discord.gg/BaJ4r9e'	,	'img/discord.svg'),
 ]
 
+age = relativedelta(datetime.date.today(), datetime.date(2003, 2, 3)).years
+
 bullets: list[Bullet] = [
-	Bullet('💖', '19 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer**.'),
-	Bullet('🪨', 'From Southern New Hampshire.'),
-	Bullet('🎓', 'Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.'),
-	Bullet('💻', 'Focusing on low-level/backend development.'),
-	Bullet('🐋', 'Docker enjoyer.'),
+	Bullet('💖', '{} y/o **Software Developer** and [**Twitch Streamer**](https://twitch.tv/soupsu).'.format(age)),
+	Bullet('📍', 'From Southern New Hampshire.'),
+	Bullet('🎓', 'Undergrad student @ [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.'),
+	Bullet('💻', 'Currently helping develop medical devices.'),
 ]
 
 lang_count = 6

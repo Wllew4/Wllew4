@@ -4,24 +4,26 @@
 </h1>
 
 <h3 align="center">
-I go by Will/Felix/Janelle
+I go by Felix
 
 (he/him)
 [soupsu.dev](https://soupsu.dev)
 </h3>
 
 <!--BULLETS-->
+
 <h3>
 
-💖 19 y/o [**Twitch Streamer**](https://twitch.tv/soupsu) and **Software Developer**.<br>
-🪨 From Southern New Hampshire.<br>
-🎓 Studying at [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
-💻 Focusing on low-level/backend development.<br>
-🐋 Docker enjoyer.<br>
+**About Me**
+
+💖 19 y/o **Software Developer** and [**Twitch Streamer**](https://twitch.tv/soupsu).<br>
+📍 From Southern New Hampshire.<br>
+🎓 Undergrad student @ [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
+🩺 Currently helping develop medical devices.<br>
 </h3>
 
 <!--LANGS-->
-<div align="right">
+<!--div align="right">
 
 | | Most Used Languages: | |
 |-:|:-:|:-|

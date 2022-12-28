@@ -14,8 +14,8 @@ jobs:
         python-version: '3.10'
     - name: Remake readme
       run: |
-        pip install PyGithub python-dateutil
-        python src/main.py ${{ secrets.ACCESS_TOKEN }}
+        pip install python-dateutil
+        python src/main.py
     - name: Push
       run: |
         git config user.name github-actions[bot]

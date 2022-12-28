@@ -22,6 +22,8 @@ I go by Felix
 💽 Home lab admin.<br>
 </h3>
 
+<!--STACK-->
+
 <h2>💻 My Stack</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -39,20 +41,8 @@ I go by Felix
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
+<!--SOCIALS-->
 
-
-<!--LANGS-->
-<!--div align="right">
-
-| | Most Used Languages: | |
-|-:|:-:|:-|
-TypeScript:|		████████████░░░░░░░░░░░░░<br> | 45.93%
-Go:|		█████░░░░░░░░░░░░░░░░░░░░<br> | 19.14%
-Python:|		████░░░░░░░░░░░░░░░░░░░░░<br> | 12.02%
-C++:|		███░░░░░░░░░░░░░░░░░░░░░░<br> | 8.83%
-Rust:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 7.38%
-Svelte:|		██░░░░░░░░░░░░░░░░░░░░░░░<br> | 6.69%
-</div><!--SOCIALS-->
 <p align="center">
 <a href="https://twitter.com/soupsu_" target="_blank">
 	<img src="img/twitter.svg" width="10%"></a>

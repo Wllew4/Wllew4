@@ -12,9 +12,9 @@ I go by Felix
 
 <!--BULLETS-->
 
-<h3>
+<h2>About Me</h2>
 
-**About Me**
+<h3>
 
 💖 19 y/o **Software Developer** and [**Twitch Streamer**](https://twitch.tv/soupsu).<br>
 📍 From Southern New Hampshire.<br>

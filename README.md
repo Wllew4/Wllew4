@@ -19,7 +19,6 @@ I go by Felix
 📍 From Southern New Hampshire.<br>
 🎓 Undergrad student @ [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
 🩺 Currently helping develop medical devices.<br>
-⚙️ Proud [**Framework laptop**](https://frame.work) owner.<br>
 💽 Home lab admin.<br>
 </h3>
 
@@ -29,8 +28,8 @@ I go by Felix
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 

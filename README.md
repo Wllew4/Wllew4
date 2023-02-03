@@ -15,7 +15,7 @@ I go by Felix
 <h2>🐺 About Me</h2>
 <h3>
 
-💖 19 y/o **Software Developer** and [**Twitch Streamer**](https://twitch.tv/soupsu).<br>
+💖 20 y/o **Software Developer** and [**Twitch Streamer**](https://twitch.tv/soupsu).<br>
 📍 From Southern New Hampshire.<br>
 🎓 Undergrad student @ [**Wentworth Institute of Technology**](https://wit.edu) in Boston, MA.<br>
 🩺 Currently helping develop medical devices.<br>

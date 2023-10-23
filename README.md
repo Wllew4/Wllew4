@@ -3,11 +3,11 @@
 <img src="img/banner.png">
 </h1>
 
-<h2 align="center"><a href="#">&#x200B;</a>
+<h1 align="center"><a href="#">&#x200B;</a>
 Felix (he/him)
 
 [rave.dog](https://rave.dog)
-</h2>
+</h1>
 
 <h3>
 

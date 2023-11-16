@@ -1,6 +1,6 @@
 <!--HEADER-->
 <h1 align="center"><a href="#">&#x200B;</a>
-Felix (he/him)
+Will Janelle (he/him)
 
 [rave.dog](https://rave.dog)
 </h1>

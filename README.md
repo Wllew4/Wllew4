@@ -1,8 +1,4 @@
 <!--HEADER-->
-<h1 align="center">
-<img src="img/banner.png">
-</h1>
-
 <h1 align="center"><a href="#">&#x200B;</a>
 Felix (he/him)
 

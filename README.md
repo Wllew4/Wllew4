@@ -7,7 +7,7 @@ Will Janelle (he/him)
 
 <h3>
 
-💖 20 y/o **Software Dev**, [**Musician**](https://soundcloud.com/soupsu) and [**Streamer**](https://twitch.tv/soupsu)<br>
+💖 21 y/o **Software Dev**, [**Musician**](https://soundcloud.com/soupsu) and [**Streamer**](https://twitch.tv/soupsu)<br>
 📍 From Southern New Hampshire<br>
 🎓 Undergrad student<br>
 🩺 Developing embedded software for medical devices (my job)<br>

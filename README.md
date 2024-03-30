@@ -7,7 +7,7 @@ Will Janelle (he/him)
 
 <h3>
 
-💖 21 y/o **Software Dev**, and [**Musician**]([https://soundcloud.com/soupsu](https://soundcloud.com/xravedogx))<br>
+💖 21 y/o **Software Dev**, and [**Musician**](https://soundcloud.com/soupsu](https://soundcloud.com/xravedogx))<br>
 📍 From Southern New Hampshire<br>
 🎓 Undergrad student<br>
 💽 Home lab admin<br>

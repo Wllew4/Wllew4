@@ -5,7 +5,7 @@ Will Janelle (he/him)
 
 <h3>
 
-💖 21 y/o Software Engineer<br>
+💖 22 y/o Software Engineer<br>
 📍 From Southern New Hampshire<br>
 🎓 Undergrad student<br>
 💽 Home lab admin<br>

@@ -1,12 +1,10 @@
-<!--HEADER-->
 <h1 align="center"><a href="#">&#x200B;</a>
-Will Janelle (he/him)
+Will Janelle
 </h1>
 
 <h3>
-
-💖 22 y/o Software Engineer<br>
+💻 Full-Time Software Engineer & Cybersecurity Researcher<br>
+🎓 BS in Computer Science (minor in Applied Mathematics)<br>
 📍 From Southern New Hampshire<br>
-🎓 Undergrad student<br>
 💽 Home lab admin<br>
 </h3>
